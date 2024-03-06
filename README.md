@@ -1,16 +1,16 @@
-### Hi there 👋
+### oi, meu nome é bruno e eu sou um dev júnior cursando atualmente análise e desenvolvimento de sistemas.
 
-<!--
-**syxbruno/syxbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+Sou um desenvolvedor júnior no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas. Além das atividades acadêmicas na universidade, busco aprimorar meus conhecimentos por meio de cursos e estudos autônomos. A escolha pela área da computação é resultado da minha paixão de longa data pela tecnologia. Atualmente, tenho dezoito anos. Convido você a explorar meu GitHub para conhecer alguns dos projetos em que tenho trabalhado. 🐙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="bruno.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bruno-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+
+![syxbruno GitHub stats](https://github-readme-stats.vercel.app/api?username=syxbruno&show_icons=true)
