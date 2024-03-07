@@ -1,4 +1,4 @@
-### oi, meu nome é bruno e eu sou um dev júnior cursando atualmente análise e desenvolvimento de sistemas.
+### oi, meu nome é bruno e eu sou um dev júnior cursando, atualmente, análise e desenvolvimento de sistemas.
 
 ##
 
