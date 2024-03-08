@@ -1,8 +1,8 @@
-### oi, meu nome é bruno e eu sou um dev júnior atualmente cursando análise e desenvolvimento de sistemas.
+### oi, meu nome é bruno e estou atualmente cursando análise e desenvolvimento de sistemas.
 
 ##
 
-Sou um desenvolvedor júnior no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas. Além das atividades acadêmicas na universidade, busco aprimorar meus conhecimentos por meio de cursos e estudos autônomos. A escolha pela área da computação é resultado da minha paixão de longa data pela tecnologia. Atualmente, tenho dezoito anos. Convido você a explorar meu GitHub para conhecer alguns dos projetos em que tenho trabalhado. 🐙
+Sou um desenvolvedor de software no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas. Além das atividades acadêmicas na universidade, busco aprimorar meus conhecimentos por meio de cursos e estudos autônomos. A escolha pela área da computação é resultado da minha paixão de longa data pela tecnologia. Atualmente, tenho dezoito anos. Convido você a explorar meu GitHub para conhecer alguns dos projetos em que tenho trabalhado. 🐙
 
 <div style="display: inline_block"><br>
   <img align="center" alt="bruno.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
