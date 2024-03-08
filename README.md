@@ -1,4 +1,4 @@
-### oi, meu nome é bruno e estou atualmente cursando análise e desenvolvimento de sistemas.
+### oi, meu nome é bruno e atualmente estou cursando análise e desenvolvimento de sistemas.
 
 ##
 
