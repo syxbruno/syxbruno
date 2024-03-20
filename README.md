@@ -5,8 +5,8 @@ I am currently a software developer, studying Systems Analysis and Development. 
 <br>
 
 <div>
-    <img width="55em" src= "https://github.com/syxbruno/syxbruno/assets/157124324/48031ec3-e5d7-46ac-93d8-4fb86c397214"/>
-    <img width="55em" src= "https://github.com/syxbruno/syxbruno/assets/157124324/6300f849-904f-400a-ac89-5d1eddd53c9c"/>
+    <img width="45em" src= "https://github.com/syxbruno/syxbruno/assets/157124324/48031ec3-e5d7-46ac-93d8-4fb86c397214"/>
+    <img width="45em" src= "https://github.com/syxbruno/syxbruno/assets/157124324/6300f849-904f-400a-ac89-5d1eddd53c9c"/>
 </div>
 
 ##
