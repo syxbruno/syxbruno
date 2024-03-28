@@ -6,6 +6,7 @@ I am currently a software developer, studying Systems Analysis and Development. 
 
 <div>
     <img width="45em" src= "https://github.com/syxbruno/syxbruno/assets/157124324/48031ec3-e5d7-46ac-93d8-4fb86c397214"/>
+    <img width="45em" src= "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg"/>
 </div>
 
 ##
