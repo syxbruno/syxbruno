@@ -2,7 +2,7 @@
 
 I am currently a software developer, studying Systems Analysis and Development. In addition to academic activities at university, I seek to learn through courses and independent studies.🐙
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git)](https://skillicons.dev)
 
 ##
 
