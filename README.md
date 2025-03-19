@@ -7,11 +7,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174952.png?f=webp&w=256" height="34" alt="java logo"/>
   <img width="23" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img src="https://cdn.simpleicons.org/spring" height="30" alt="spring logo"  />
   <img width="23" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="23" />
+  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
 </div>
 
 ###
