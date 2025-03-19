@@ -2,18 +2,20 @@
 
 ###
 
-<p align="left">My name is Bruno and I'm a Java backend developer ☕<br><br>Currently studying Systems Analysis and Development<br>Technical skills in Java, Spring, PostgreSQL e Git</p>
+<p align="left">My name is Bruno and I'm a Java backend developer ☕<br><br>Currently studying Systems Analysis and Development<br>Technical skills in Java, Spring, PostgreSQL, Docker e Git</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174952.png?f=webp&w=256" height="34" alt="java logo"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="35" alt="java logo"/>
   <img width="23" />
-  <img src="https://cdn.simpleicons.org/spring" height="30" alt="spring logo"  />
+  <img src="https://cdn.simpleicons.org/spring" height="30" alt="spring logo"/>
   <img width="23" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql" height="30" alt="postgresql logo"/>
   <img width="23" />
-  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"/>
+  <img width="23" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"/>
 </div>
 
 ###
