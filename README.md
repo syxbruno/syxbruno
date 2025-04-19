@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bruno and I'm a Java backend developer ☕<br><br>Currently studying Systems Analysis and Development<br>Technical skills in Java, Spring, PostgreSQL, Docker e Git</p>
+<p align="left">My name is Bruno and I'm a Java backend developer<br>Technical skills in Java, Spring, PostgreSQL, Docker e Git</p>
 
 ###
 
