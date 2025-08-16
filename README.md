@@ -28,8 +28,4 @@ Java, Spring (Web, JPA, Security, Boot), Microservices, Docker, Maven, Git, Gith
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syxbruno&radius=9&theme=minimal&area=true&order=5&hide_border=false&hide_title=false" height="257" alt="activity-graph graph"/>
-
-&nbsp;
-
-  <p>Contact by email syxbrunoo@gmail.com</p>
 </div>
