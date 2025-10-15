@@ -7,7 +7,7 @@
 <p>
   Technical skills in:  
 
-Java, Spring (Web, JPA, Security, Boot), Microservices, Docker, Maven, Git, Github, POO, Hibernate, REST, SQL(PostgreSQL, MySQL), Grafana, FlyWay
+Java, Spring (Web, JPA, Security, Boot), Microservices, Apache Kafka, Docker, Maven, Git, Github, POO, Hibernate, REST, SQL(PostgreSQL, MySQL), Grafana, FlyWay
 </p>
 
 <div align="center">
