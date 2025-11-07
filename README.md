@@ -1,26 +1,19 @@
-<h3 align="left">System.out.println( "welcome to my profile" );</h3>
 
-<p align="left">My name is Bruno and I'm a Java backend developer</p>
+<p align="left">My name is Bruno and I'm a Java Developer</p>
+
+<p align="left">Right now, I work in the IT department at the City Hall of Santa Bárbara do Monte Verde, keeping things running smoothly and helping improve the local infrastructure</p>
+
+<p align="left">At the same time, I’m studying Software Analysis and Development at Estácio University, always looking for new ways to grow as a developer</p>
 
 ---
 
 <p>
   Technical skills in:  
 
-Java, Spring (Web, JPA, Security, Boot), Microservices, Apache Kafka, Docker, Maven, Git, Github, POO, Hibernate, REST, SQL(PostgreSQL, MySQL), Grafana, FlyWay
+Java, Spring Boot, Microsserviços, Apache Kafka, Docker, Git, Github, OAuth, JWT, SQL, Banco de dados (PostgreSQL,MySQL), Observabilidade (Prometheus, Grafana), Testes automatizados (JUnit, Mockito), Swagger
 </p>
 
-<div align="center">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="35" alt="java logo"/>
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/spring" height="30" alt="spring logo"/>
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/postgresql" height="30" alt="postgresql logo"/>
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/mysql" height="30" alt="mysql logo"/>
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kafka,idea&theme=light)](https://skillicons.dev)
 
 ---
 
