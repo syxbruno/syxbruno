@@ -13,7 +13,7 @@
 Java, Spring Boot, Microsserviços, Apache Kafka, Docker, Git, Github, OAuth, JWT, SQL, Banco de dados (PostgreSQL,MySQL), Observabilidade (Prometheus, Grafana), Testes automatizados (JUnit, Mockito), Swagger
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kafka,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kafka,prometheus,grafana,idea&theme=light)](https://skillicons.dev)
 
 ---
 
