@@ -10,10 +10,10 @@
 <p>
   Technical skills in:  
 
-Java, Spring Boot, Microsserviços, CI/CD, Apache Kafka, Docker, Git, Github, OAuth, JWT, SQL, Banco de dados (PostgreSQL,MySQL), Observabilidade (Prometheus, Grafana), Testes automatizados (JUnit, Mockito, Testcontainers), Swagger
+Java, Spring Boot, Microsserviços, CI/CD, Docker, Git, Github, OAuth, JWT, SQL, Banco de dados (PostgreSQL,MySQL), Observabilidade (Prometheus, Grafana), Testes automatizados (JUnit, Mockito, Testcontainers), Swagger
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kafka,prometheus,grafana,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,prometheus,grafana,idea&theme=light)](https://skillicons.dev)
 
 ---
 
