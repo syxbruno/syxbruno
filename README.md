@@ -1,24 +1,25 @@
-
 <p align="left">My name is Bruno and I'm a Java Developer</p>
 
-<p align="left">Right now, I work in the IT department at the City Hall of Santa Bárbara do Monte Verde, keeping things running smoothly and helping improve the local infrastructure</p>
+<p align="left">
+Right now, I work as an IT Technician at the City Hall of Santa Bárbara do Monte Verde, providing technical support and infrastructure maintenance, as well as developing internal features using Java and Spring Boot.
+</p>
 
-<p align="left">At the same time, I’m studying Software Analysis and Development at Estácio University, always looking for new ways to grow as a developer</p>
+<p align="left">
+At the same time, I'm studying Software Analysis and Development at UNESA.
+</p>
 
 ---
 
 <p>
-  Technical skills in:  
+Technical skills in:
 
-Java, Spring Boot, Microsserviços, CI/CD, Docker, Git, Github, OAuth, JWT, SQL, Banco de dados (PostgreSQL,MySQL), Observabilidade (Prometheus, Grafana), Testes automatizados (JUnit, Mockito, Testcontainers), Swagger
+Java, Spring ecosystem, CI/CD, Tests (JUnit, Mockito), Databases (MySQL, PostgreSQL), Architecture (REST APIs, MVC, Microsserviços), Containers (Docker), Operating Systems (Windows, Linux).
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,prometheus,grafana,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,githubactions,mysql,postgres,docker,windows,linux&theme=light)](https://skillicons.dev)
 
 ---
 
 &nbsp;
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syxbruno&radius=9&theme=minimal&area=true&order=5&hide_border=false&hide_title=false" height="257" alt="activity-graph graph"/>
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syxbruno&theme=react-dark)](...)
